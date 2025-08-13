@@ -10,7 +10,7 @@ Web scraping güçlü bir araç ama **büyük güç, büyük sorumluluk getirir*
 
 ## 📜 Temel Etik İlkeler
 
-### 1. **"İyi Komşu" Prensibi
+### 1. **"İyi Komşu" Prensibi**
 ```
 Soru: Bu web sitesinin sahibi olsaydım, 
       böyle scraping yapılmasına razı olur muydum?
@@ -200,3 +200,4 @@ Web scraping yaparken:
 ---
 
 **Sonraki adım:** `02-bs4-requests/basic_scrape.py` - İlk örneğimiz!
+
