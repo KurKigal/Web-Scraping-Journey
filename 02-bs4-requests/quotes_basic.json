@@ -1,0 +1,422 @@
+[
+  {
+    "author": "Albert Einstein",
+    "id": 1,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "change",
+      "deep-thoughts",
+      "thinking",
+      "world"
+    ],
+    "tags_str": "change, deep-thoughts, thinking, world",
+    "text": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
+    "word_count": 21
+  },
+  {
+    "author": "J.K. Rowling",
+    "id": 2,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "abilities",
+      "choices"
+    ],
+    "tags_str": "abilities, choices",
+    "text": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+    "word_count": 16
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 3,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "inspirational",
+      "life",
+      "live",
+      "miracle",
+      "miracles"
+    ],
+    "tags_str": "inspirational, life, live, miracle, miracles",
+    "text": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+    "word_count": 26
+  },
+  {
+    "author": "Jane Austen",
+    "id": 4,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "aliteracy",
+      "books",
+      "classic",
+      "humor"
+    ],
+    "tags_str": "aliteracy, books, classic, humor",
+    "text": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+    "word_count": 19
+  },
+  {
+    "author": "Marilyn Monroe",
+    "id": 5,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "be-yourself",
+      "inspirational"
+    ],
+    "tags_str": "be-yourself, inspirational",
+    "text": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+    "word_count": 16
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 6,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "adulthood",
+      "success",
+      "value"
+    ],
+    "tags_str": "adulthood, success, value",
+    "text": "“Try not to become a man of success. Rather become a man of value.”",
+    "word_count": 14
+  },
+  {
+    "author": "André Gide",
+    "id": 7,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "life",
+      "love"
+    ],
+    "tags_str": "life, love",
+    "text": "“It is better to be hated for what you are than to be loved for what you are not.”",
+    "word_count": 19
+  },
+  {
+    "author": "Thomas A. Edison",
+    "id": 8,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "edison",
+      "failure",
+      "inspirational",
+      "paraphrased"
+    ],
+    "tags_str": "edison, failure, inspirational, paraphrased",
+    "text": "“I have not failed. I've just found 10,000 ways that won't work.”",
+    "word_count": 12
+  },
+  {
+    "author": "Eleanor Roosevelt",
+    "id": 9,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "misattributed-eleanor-roosevelt"
+    ],
+    "tags_str": "misattributed-eleanor-roosevelt",
+    "text": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
+    "word_count": 19
+  },
+  {
+    "author": "Steve Martin",
+    "id": 10,
+    "page_number": 1,
+    "scraped_at": "2025-08-18 17:53:21",
+    "tags": [
+      "humor",
+      "obvious",
+      "simile"
+    ],
+    "tags_str": "humor, obvious, simile",
+    "text": "“A day without sunshine is like, you know, night.”",
+    "word_count": 9
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 11,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "change",
+      "deep-thoughts",
+      "thinking",
+      "world"
+    ],
+    "tags_str": "change, deep-thoughts, thinking, world",
+    "text": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
+    "word_count": 21
+  },
+  {
+    "author": "J.K. Rowling",
+    "id": 12,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "abilities",
+      "choices"
+    ],
+    "tags_str": "abilities, choices",
+    "text": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+    "word_count": 16
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 13,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "inspirational",
+      "life",
+      "live",
+      "miracle",
+      "miracles"
+    ],
+    "tags_str": "inspirational, life, live, miracle, miracles",
+    "text": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+    "word_count": 26
+  },
+  {
+    "author": "Jane Austen",
+    "id": 14,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "aliteracy",
+      "books",
+      "classic",
+      "humor"
+    ],
+    "tags_str": "aliteracy, books, classic, humor",
+    "text": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+    "word_count": 19
+  },
+  {
+    "author": "Marilyn Monroe",
+    "id": 15,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "be-yourself",
+      "inspirational"
+    ],
+    "tags_str": "be-yourself, inspirational",
+    "text": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+    "word_count": 16
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 16,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "adulthood",
+      "success",
+      "value"
+    ],
+    "tags_str": "adulthood, success, value",
+    "text": "“Try not to become a man of success. Rather become a man of value.”",
+    "word_count": 14
+  },
+  {
+    "author": "André Gide",
+    "id": 17,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "life",
+      "love"
+    ],
+    "tags_str": "life, love",
+    "text": "“It is better to be hated for what you are than to be loved for what you are not.”",
+    "word_count": 19
+  },
+  {
+    "author": "Thomas A. Edison",
+    "id": 18,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "edison",
+      "failure",
+      "inspirational",
+      "paraphrased"
+    ],
+    "tags_str": "edison, failure, inspirational, paraphrased",
+    "text": "“I have not failed. I've just found 10,000 ways that won't work.”",
+    "word_count": 12
+  },
+  {
+    "author": "Eleanor Roosevelt",
+    "id": 19,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "misattributed-eleanor-roosevelt"
+    ],
+    "tags_str": "misattributed-eleanor-roosevelt",
+    "text": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
+    "word_count": 19
+  },
+  {
+    "author": "Steve Martin",
+    "id": 20,
+    "page_number": 2,
+    "scraped_at": "2025-08-18 17:53:22",
+    "tags": [
+      "humor",
+      "obvious",
+      "simile"
+    ],
+    "tags_str": "humor, obvious, simile",
+    "text": "“A day without sunshine is like, you know, night.”",
+    "word_count": 9
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 21,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "change",
+      "deep-thoughts",
+      "thinking",
+      "world"
+    ],
+    "tags_str": "change, deep-thoughts, thinking, world",
+    "text": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
+    "word_count": 21
+  },
+  {
+    "author": "J.K. Rowling",
+    "id": 22,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "abilities",
+      "choices"
+    ],
+    "tags_str": "abilities, choices",
+    "text": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+    "word_count": 16
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 23,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "inspirational",
+      "life",
+      "live",
+      "miracle",
+      "miracles"
+    ],
+    "tags_str": "inspirational, life, live, miracle, miracles",
+    "text": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+    "word_count": 26
+  },
+  {
+    "author": "Jane Austen",
+    "id": 24,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "aliteracy",
+      "books",
+      "classic",
+      "humor"
+    ],
+    "tags_str": "aliteracy, books, classic, humor",
+    "text": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+    "word_count": 19
+  },
+  {
+    "author": "Marilyn Monroe",
+    "id": 25,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "be-yourself",
+      "inspirational"
+    ],
+    "tags_str": "be-yourself, inspirational",
+    "text": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+    "word_count": 16
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 26,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "adulthood",
+      "success",
+      "value"
+    ],
+    "tags_str": "adulthood, success, value",
+    "text": "“Try not to become a man of success. Rather become a man of value.”",
+    "word_count": 14
+  },
+  {
+    "author": "André Gide",
+    "id": 27,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "life",
+      "love"
+    ],
+    "tags_str": "life, love",
+    "text": "“It is better to be hated for what you are than to be loved for what you are not.”",
+    "word_count": 19
+  },
+  {
+    "author": "Thomas A. Edison",
+    "id": 28,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "edison",
+      "failure",
+      "inspirational",
+      "paraphrased"
+    ],
+    "tags_str": "edison, failure, inspirational, paraphrased",
+    "text": "“I have not failed. I've just found 10,000 ways that won't work.”",
+    "word_count": 12
+  },
+  {
+    "author": "Eleanor Roosevelt",
+    "id": 29,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "misattributed-eleanor-roosevelt"
+    ],
+    "tags_str": "misattributed-eleanor-roosevelt",
+    "text": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
+    "word_count": 19
+  },
+  {
+    "author": "Steve Martin",
+    "id": 30,
+    "page_number": 3,
+    "scraped_at": "2025-08-18 17:53:23",
+    "tags": [
+      "humor",
+      "obvious",
+      "simile"
+    ],
+    "tags_str": "humor, obvious, simile",
+    "text": "“A day without sunshine is like, you know, night.”",
+    "word_count": 9
+  }
+]
