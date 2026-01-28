@@ -1,0 +1,6 @@
+aiohttp
+fake-useragent
+nest_asyncio
+requests
+pandas
+matplotlib
